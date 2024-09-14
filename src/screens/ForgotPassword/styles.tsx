@@ -6,12 +6,6 @@ export const styles = StyleSheet.create({
     justifyContent: 'flex-start',
     backgroundColor: '#FFFFFF',
   },
-  sectionHorizontal: {paddingHorizontal: 22, gap: 8},
-  pairActionButtons: {
-    padding: 22,
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-  },
   sectionLogoHero: {
     justifyContent: 'center',
     flexDirection: 'row',
@@ -21,4 +15,5 @@ export const styles = StyleSheet.create({
   logoHero: {
     width: 160,
   },
+  sectionHorizontal: {paddingHorizontal: 22, gap: 8},
 });

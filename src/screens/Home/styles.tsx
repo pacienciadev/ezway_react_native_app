@@ -6,10 +6,6 @@ export const styles = StyleSheet.create({
     justifyContent: 'flex-start',
     backgroundColor: '#FFFFFF',
   },
-  contentContainer: {
-    flex: 1,
-    alignItems: 'center',
-  },
   sectionHorizontal: {paddingHorizontal: 8, gap: 8},
   customAppBar: {
     justifyContent: 'space-between',
@@ -18,17 +14,6 @@ export const styles = StyleSheet.create({
     backgroundColor: '#FFFFFF',
     height: 64,
     paddingHorizontal: 12,
-  },
-  pairActionButtons: {
-    padding: 22,
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-  },
-  sectionLogoHero: {
-    justifyContent: 'center',
-    flexDirection: 'row',
-    margin: 22,
-    paddingTop: 44,
   },
   logoEzway: {
     width: 112,

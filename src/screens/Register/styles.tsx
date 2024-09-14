@@ -7,11 +7,6 @@ export const styles = StyleSheet.create({
     backgroundColor: '#FFFFFF',
   },
   sectionHorizontal: {paddingHorizontal: 22, gap: 8},
-  pairActionButtons: {
-    padding: 22,
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-  },
   sectionLogoHero: {
     justifyContent: 'center',
     flexDirection: 'row',
